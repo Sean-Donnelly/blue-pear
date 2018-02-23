@@ -3,7 +3,7 @@ Blue P.E.A.R (in progress)
 ====
 Packet-capture, Enrichment, Analysis, and Reporting
 ---
-<p align="center" style="width:400px"><img src="https://github.com/Sean-Donnelly/blue-pear/blob/master/diagram.png" style="width:400px"></p>
+<p align="center" style="width:400px"><img src="https://github.com/Sean-Donnelly/blue-pear/blob/master/bluepear-diagram.png" style="width:400px"></p>
 
 ---
 Blue P.E.A.R is a network security monitoring (NSM) toolset for use by a deploying blue team.  It is similar to other NSM platforms (ROCK NSM, CozyNSM, Security Onion, etc.) but differs in the following ways:
