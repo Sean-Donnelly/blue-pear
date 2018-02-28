@@ -7,8 +7,8 @@ Packet-capture, Enrichment, Analysis, and Reporting
 
 ---
 Blue P.E.A.R is a network security monitoring (NSM) toolset for use by a deploying blue team.  It is similar to other NSM platforms (ROCK NSM, CozyNSM, Security Onion, etc.) but differs in the following ways:
-* emphasis on deeper and more efficient analysis of full packet capture
-* designed to be a one-person deployment (personnel constrained teams); the toolset lacks access control and collaboration tools
+* emphasis on efficient analysis of full packet capture
+* designed to be a one-person deployment (for personnel constrained teams)
 * built to operate on a hardware constrained network (minimal deployed assets)
 * incorporates logstash configs developed by Justin Henderson (H&A Security Solutions) and myself for data enrichment
 * takes advantage of various open-source analytic frameworks (by Austin Taylor and Mark Baggett)
